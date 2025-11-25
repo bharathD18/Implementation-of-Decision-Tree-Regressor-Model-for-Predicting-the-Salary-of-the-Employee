@@ -17,6 +17,7 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 4.Find the accuracy score
 
 ## Program:
+```
 /*
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
 Developed by: Bharath D
@@ -49,7 +50,7 @@ R2 score:  0.48611111111111116
 
 
 dt.predict([[5,6]])
-
+```
 ## Output:
 <img width="1030" height="314" alt="image" src="https://github.com/user-attachments/assets/f9e6ff51-395e-449b-826f-e86d4e6a349a" />
 <img width="495" height="239" alt="image" src="https://github.com/user-attachments/assets/b12146de-fdfe-4cef-b78d-02ef3b3702e9" />
